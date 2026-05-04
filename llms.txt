@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Asrar Mosh Htetghayer |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 04, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/asrar-mosh-htetghayer/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي نور عيوني في الليل الطويل
+> أشواق قلبي تفيض كالنهر الجميل
+> أبحث عنك في كل نجم ودليل
+> حتى ألقاك ويشفي قلبي العليل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
