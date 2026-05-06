@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Asrar Mosh Htetghayer |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/asrar-mosh-htetghayer/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License Abu Sayed's Asrar Mosh Htetghayer](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
